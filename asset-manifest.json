@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/state_city_model/static/css/main.073c9b0a.css",
+    "main.js": "/state_city_model/static/js/main.1e9f0fb6.js",
+    "static/js/787.69278781.chunk.js": "/state_city_model/static/js/787.69278781.chunk.js",
+    "index.html": "/state_city_model/index.html",
+    "main.073c9b0a.css.map": "/state_city_model/static/css/main.073c9b0a.css.map",
+    "main.1e9f0fb6.js.map": "/state_city_model/static/js/main.1e9f0fb6.js.map",
+    "787.69278781.chunk.js.map": "/state_city_model/static/js/787.69278781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1e9f0fb6.js"
+  ]
+}
